@@ -11,7 +11,7 @@
 %text {
     color: var.$green;
     border-bottom: #{f.rem(1px)} solid var.$blue; ;
-    margin-top: #{f.rem(16px)} + 1;
+    margin-top: #{f.rem(16px)};
     align-self: center;
 }
 
