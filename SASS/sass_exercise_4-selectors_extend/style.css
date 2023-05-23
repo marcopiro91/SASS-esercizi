@@ -1,7 +1,7 @@
 div h2, div h1 {
   color: green;
   border-bottom: 0.0625rem solid blue;
-  margin-top: 1rem1;
+  margin-top: 1rem;
   align-self: center;
 }
 
